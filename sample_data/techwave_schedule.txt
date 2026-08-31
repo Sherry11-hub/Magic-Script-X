@@ -1,0 +1,79 @@
+TECHWAVE ANNUAL CONFERENCE 2025 — OFFICIAL SCHEDULE
+Event: TechWave 2025: Innovating the Future
+Venue: Silicon Convention Center, San Francisco, CA
+Date: Saturday, October 18, 2025
+Hashtag: #TechWave2025
+
+════════════════════════════════════════════════════════════════
+DAY SCHEDULE — MAIN HALL (Grand Auditorium)
+════════════════════════════════════════════════════════════════
+
+08:00 AM | Registration & Welcome Coffee     | Foyer (Ground Floor)
+08:45 AM | Media & Press Briefing             | Press Room (Room 101)
+
+09:00 AM | OPENING CEREMONY                  | Grand Auditorium
+          Speaker: Sarah Chen, CEO, TechWave Foundation
+          Notes: Official flag-hoisting, welcome address, sponsor roll-call
+
+10:00 AM | KEYNOTE: "The Decade of AI"       | Grand Auditorium
+          Speaker: Dr. Marcus Rivera, Chief AI Officer, NeuralPath Inc.
+          Duration: 60 minutes (incl. 10-min Q&A)
+
+11:00 AM | Networking Coffee Break            | Atrium (Level 1)
+          Duration: 30 minutes
+
+11:30 AM | PANEL: "Ethics in Generative AI"  | Grand Auditorium
+          Moderator: Prof. Aisha Okonkwo, Stanford University
+          Panelists:
+            - James Patel, Founder, EthicsAI Labs
+            - Dr. Lena Hoffman, EU AI Policy Board
+            - Raj Subramaniam, Product Lead, OpenCore AI
+          Duration: 75 minutes
+
+01:00 PM | NETWORKING LUNCH                  | Terrace Pavilion (Outdoor)
+          Duration: 90 minutes
+          Note: Vegetarian and vegan options available at Station C.
+
+════════════════════════════════════════════════════════════════
+AFTERNOON TRACK A — Grand Auditorium
+════════════════════════════════════════════════════════════════
+
+02:30 PM | WORKSHOP: "Building RAG Systems"  | Grand Auditorium
+          Speaker: Dr. Priya Nair, Principal Engineer, Anthropic
+          Duration: 90 minutes (hands-on)
+          Prerequisites: Bring a laptop with Python 3.10+ installed
+
+04:00 PM | BREAK                              | Atrium (Level 1)
+          Duration: 20 minutes
+
+04:20 PM | KEYNOTE: "Web3 & the Open Internet"| Grand Auditorium
+          Speaker: Tom Blackwell, Co-Founder, ChainLink Ventures
+          Duration: 45 minutes
+
+05:05 PM | CLOSING PANEL & AWARDS            | Grand Auditorium
+          Host: Sarah Chen, CEO, TechWave Foundation
+          Awards:
+            - Best Speaker Award
+            - Most Innovative Product Demo
+            - Community Impact Award
+
+06:00 PM | NETWORKING COCKTAIL RECEPTION     | Rooftop Lounge (Level 5)
+          Open bar + canapes. Dress code: Smart casual.
+
+07:30 PM | EVENT CLOSE                       | —
+
+════════════════════════════════════════════════════════════════
+AFTERNOON TRACK B — Hall B (Innovation Hub)
+════════════════════════════════════════════════════════════════
+
+02:30 PM | DEMO: "AI in Healthcare"          | Hall B
+          Presenter: Dr. Yuki Tanaka, MedAI Solutions
+          Duration: 45 minutes
+
+03:15 PM | STARTUP PITCH SHOWCASE            | Hall B
+          5 startups × 8 minutes each + 5-min panel Q&A
+          Moderator: Maria Santos, Partner, Horizon VC
+
+04:30 PM | WORKSHOP: "Prompt Engineering 101"| Hall B
+          Speaker: Alex Kim, AI Advocate, Google DeepMind
+          Duration: 60 minutes

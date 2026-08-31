@@ -1,0 +1,42 @@
+# ─────────────────────────────────────────────────────────────
+# Generative AI Event & Script Copilot — Dependencies
+# Python 3.10+ required
+# Install: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────
+
+# ── Frontend & Server ─────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── LangChain Ecosystem ───────────────────────────────────────
+# Core abstractions (chains, prompts, schemas)
+langchain>=0.2.0
+langchain-core>=0.2.0
+# Community integrations (Chroma, CSV/PDF loaders)
+langchain-community>=0.2.0
+# OpenAI integration (ChatOpenAI, OpenAIEmbeddings)
+langchain-openai>=0.1.13
+# HuggingFace integration (HuggingFaceEmbeddings)
+langchain-huggingface>=0.0.3
+# Text splitters (moved to own package in v0.2)
+langchain-text-splitters>=0.2.0
+
+# ── Vector Database ───────────────────────────────────────────
+chromadb>=0.4.22
+
+# ── Embeddings ────────────────────────────────────────────────
+# Local sentence-transformers (default embedding provider)
+sentence-transformers>=2.7.0
+# OpenAI SDK (also needed for OpenAI embeddings)
+openai>=1.30.0
+
+# ── Document Loaders ──────────────────────────────────────────
+pypdf>=4.2.0          # PDF parsing
+pandas>=2.0.0         # CSV handling & data manipulation
+
+# ── Utilities ─────────────────────────────────────────────────
+python-dotenv>=1.0.1  # .env file management
+tiktoken>=0.7.0       # Token counting (used by LangChain OpenAI)
+
+# ── Optional: GPU acceleration for sentence-transformers ──────
+# Uncomment if running on a CUDA-capable machine:
+# torch>=2.0.0

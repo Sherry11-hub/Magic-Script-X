@@ -1,0 +1,26 @@
+# .streamlit/config.toml
+# Streamlit server and theme configuration.
+# Committed to source control — safe, no secrets here.
+
+[server]
+# Disable the file-watcher's "Are you sure?" prompt on hot-reload
+headless        = true
+# Port (override with: streamlit run app.py --server.port 8080)
+port            = 8501
+# Allow connections from any host (set to "localhost" for local-only)
+address         = "0.0.0.0"
+# Increase max upload size to 200 MB (default is 200, but explicit is safer)
+maxUploadSize   = 200
+
+[browser]
+# Suppress the "Email for updates" prompt on first launch
+gatherUsageStats = false
+
+[theme]
+# ── Event Copilot dark theme ──────────────────────────────────────────────────
+# Deep navy primary palette with a bold red accent — professional event aesthetic
+primaryColor        = "#e94560"    # Accent red — buttons, active tabs, links
+backgroundColor     = "#0f0f1a"    # Dark navy page background
+secondaryBackgroundColor = "#1a1a2e"  # Slightly lighter — sidebar & cards
+textColor           = "#e8eaf6"    # Soft white — body text
+font                = "sans serif"

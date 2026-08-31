@@ -1,0 +1,97 @@
+TECHWAVE 2025 — SPEAKER BIOS & PROFILES
+========================================
+
+────────────────────────────────────────────────────────────────
+SARAH CHEN | Opening Ceremony Host & Awards Host
+────────────────────────────────────────────────────────────────
+Full Name: Sarah Chen
+Title: Chief Executive Officer
+Organization: TechWave Foundation
+Session: Opening Ceremony (09:00 AM) & Closing Panel Host (05:05 PM)
+
+Bio:
+Sarah Chen is the founding CEO of the TechWave Foundation, a non-profit 
+dedicated to making technology education accessible globally. With over 
+18 years in the tech industry — including leadership roles at Google and 
+Microsoft — Sarah has become one of Silicon Valley's most recognized voices 
+on inclusive innovation. She holds an MBA from Wharton and an undergraduate 
+degree in Computer Science from MIT. In 2023, she was named one of Forbes' 
+"50 Women Shaping the Future of Technology."
+
+MC Notes: Sarah will host the Opening Ceremony and the Closing Panel. 
+She is known for her warm, energetic delivery and sharp wit.
+
+────────────────────────────────────────────────────────────────
+DR. MARCUS RIVERA | Keynote Speaker (Morning)
+────────────────────────────────────────────────────────────────
+Full Name: Dr. Marcus Rivera
+Title: Chief Artificial Intelligence Officer (CAIO)
+Organization: NeuralPath Inc.
+Session: Keynote — "The Decade of AI" (10:00 AM, Grand Auditorium)
+
+Bio:
+Dr. Marcus Rivera is a pioneering AI researcher and the Chief Artificial 
+Intelligence Officer at NeuralPath Inc., a leading AI infrastructure company 
+valued at $4.2 billion. He holds a PhD in Machine Learning from Carnegie 
+Mellon University and has published over 60 peer-reviewed papers on 
+deep learning, neural architecture, and AI safety. Before NeuralPath, 
+Dr. Rivera spent a decade at DARPA leading the Advanced AI Research Group. 
+His keynote, "The Decade of AI," draws on exclusive research forecasting 
+the next ten years of AI development across industries.
+
+Pronouns: He/Him
+Introduction note: Dr. Rivera prefers to be introduced with his full title 
+and mentions of his CMU PhD background.
+
+────────────────────────────────────────────────────────────────
+PROF. AISHA OKONKWO | Panel Moderator
+────────────────────────────────────────────────────────────────
+Full Name: Professor Aisha Okonkwo
+Title: Associate Professor of AI Ethics & Law
+Organization: Stanford University, Human-Centered AI Institute
+Session: Panel Moderator — "Ethics in Generative AI" (11:30 AM)
+
+Bio:
+Professor Aisha Okonkwo is a globally acclaimed scholar at the intersection 
+of artificial intelligence, ethics, and public policy. At Stanford's 
+Human-Centered AI Institute, she leads the Algorithmic Accountability Lab. 
+Her landmark report "Whose Intelligence?" (2024) influenced AI legislation 
+in both the EU and Canada. She advises the United Nations AI Advisory Body 
+and was named a TIME100 AI honoree in 2024.
+
+────────────────────────────────────────────────────────────────
+DR. PRIYA NAIR | Workshop Facilitator
+────────────────────────────────────────────────────────────────
+Full Name: Dr. Priya Nair
+Title: Principal Engineer, AI Research
+Organization: Anthropic
+Session: Workshop — "Building RAG Systems" (02:30 PM, Grand Auditorium)
+
+Bio:
+Dr. Priya Nair is a Principal Engineer on the Applied AI team at Anthropic, 
+where she specializes in Retrieval-Augmented Generation (RAG) systems, 
+constitutional AI, and enterprise LLM deployment. She has 12 years of 
+industry experience and holds a PhD in Natural Language Processing from 
+the University of Edinburgh. She is the co-author of the widely-cited 
+paper "Production-Grade RAG: Lessons from Scale" (NeurIPS 2024). 
+Dr. Nair is passionate about making advanced AI accessible to practitioners 
+and runs the popular newsletter "RAG Weekly."
+
+Session Notes: Hands-on workshop. Attendees need Python 3.10+ on their laptops.
+
+────────────────────────────────────────────────────────────────
+TOM BLACKWELL | Afternoon Keynote Speaker
+────────────────────────────────────────────────────────────────
+Full Name: Tom Blackwell
+Title: Co-Founder & Managing Partner
+Organization: ChainLink Ventures
+Session: Keynote — "Web3 & the Open Internet" (04:20 PM, Grand Auditorium)
+
+Bio:
+Tom Blackwell is the co-founder of ChainLink Ventures, a $350M venture fund 
+focused exclusively on Web3, decentralized infrastructure, and open-source 
+AI. A serial entrepreneur, Tom founded and exited two blockchain startups 
+before launching ChainLink in 2021. His talk, "Web3 & the Open Internet," 
+challenges the assumption that AI and decentralization are in conflict, 
+arguing instead that open-weight models and decentralized compute are the 
+only path to a fair AI future.
